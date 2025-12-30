@@ -1,0 +1,24 @@
+{
+  "catalogVersionId": 160,
+  "recordCount": 71,
+  "duration": 638,
+  "stats": {
+    "productsProcessed": 71,
+    "termsProcessed": 71,
+    "dimensionsCreated": 71,
+    "skipped": 0
+  },
+  "rosettaStats": {
+    "region_to_location": 10,
+    "location_to_region": 10,
+    "instance_family": 0,
+    "operating_system": 0,
+    "tenancy": 0,
+    "license_model": 0,
+    "purchase_option": 0,
+    "offer_class": 0,
+    "product_family": 1,
+    "usage_type_prefix": 10
+  },
+  "timestamp": "2025-12-30T19:40:22.772Z"
+}
